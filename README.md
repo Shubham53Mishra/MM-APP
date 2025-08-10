@@ -20,3 +20,4 @@ A modular Flutter app for food ordering, vendor management, and event features. 
 2. Run `flutter pub get`
 3. Run `flutter run`
 # MM-APP
+# MM-APP
