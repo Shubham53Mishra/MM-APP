@@ -1,9 +1,5 @@
-import 'package:flutter/material.dart';
-
 class AppRoutes {
-  static const String initial = '/';
-  static final routes = <String, WidgetBuilder>{
-    // '/': (context) => HomeScreen(),
-    // Add more routes here
-  };
+  static const login = '/login';
+  static const register = '/register';
+  static const home = '/home';
 }
